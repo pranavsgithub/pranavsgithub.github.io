@@ -29,9 +29,9 @@ author:
   bio              : "Second year undergrad student at the department of MEMS at IIT Bombay"
   location         : "India"
   employer         : "Indian Institute of Technology, Bombay"
-  uri              : # URL
+ 
   email(personal)  : "pranavsridhar2007@gmail.com" 
-  email(academic): "25b2426@iitb.ac.in"
+ 
 
   # Academic websites
   academia         : # URL
